@@ -1,12 +1,14 @@
+package com.tnsif.vtu.basics;
+/**
+ * 
+ */
+
+/**
+ * @author Sagar
+ *
+ */
 public class FirstProgram {
-	public static int add(int a, int b) {
-		int sum=a+b;
-		return sum;
-	}
-
 	public static void main(String[] args) {
-		System.out.println(add(10,20));
-
+		System.out.println("Hello World");
 	}
-
 }
